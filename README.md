@@ -2,7 +2,8 @@
 ##Statistician report on Fitness tracker data
 
 **_Topic:_** Accounting analytics on trainings of groups based on fitness-bracelets results
-**_Цель:_** Создание автоматизированного отчета в виде PivotTable(Excel) при подключение к удаленному серверу, с выделением из ряда групп лучшей за данный период времени.
+
+**_Purpose:_** Creating an automatic PivotTable(Excel) report with connecting to remote server, pointing out the group with the best results within certain period of time
 
 ### Input data
 Under consideration was taken a table with aggregated data of the following structure:
