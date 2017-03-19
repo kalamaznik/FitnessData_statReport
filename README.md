@@ -1,5 +1,5 @@
 # FitnessData_statReport
-##Statistician report on Fitness tracker data
+## Statistician report on Fitness tracker data
 
 **_Topic:_** Accounting analytics on trainings of groups based on fitness-bracelets results
 
